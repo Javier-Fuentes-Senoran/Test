@@ -50,11 +50,6 @@ WebDriverWait(driver, 5)\
     .click()
     
 time.sleep(3)
-    
-
-#Gold_Frenzy_250_Current_Value=driver.find_element(By.XPATH,
-#                                                  '//html/body/div/div/div/div/div/div/div/button[contains(text(),"Acept")]').text
-
-#print(Gold_Frenzy_250_Current_Value)
-    
+   
+ 
     
